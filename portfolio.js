@@ -11,34 +11,34 @@ const CONFIG = {
 
   videos: [
     {
-      id: 1,
-      tags: ["Gaming", "Reels"],
-      youtubeId: "9cC7fR1kmTk",
-      description: "Reels de gaming cobrindo novo update — edição ritmada com foco em retenção."
-    },
-    {
-      id: 2,
-      tags: ["Gaming", "Reels"],
-      youtubeId: "94Qu-xwz29s",
-      description: "Reels de gaming apresentando novo item — cortes dinâmicos com hook inicial.",
-    },
-    {
-      id: 3,
-      tags: ["Gaming", "Cinematic"],
-      youtubeId: "tO64W1wQoC4",
-      description: "Gameplay longa - Edição dinâmica com timelapses. Foco em retenção.",
-    },
-    {
-      id: 4,
-      tags: ["Social Media", "Motion"],
-      youtubeId: "9Y5zEF1cpRE",
-      description: "Animação 2D para divulgação de servidor no Discord — motion aplicado a social media",
-    },
-    {
-      id: 5,
-      tags: ["Educational", "Motion"],
-      youtubeId: "QHgYD6ybUo0",
-      description: "Explainer video sobre CDI — animação 2D explicando o mercado interbancário brasileiro.",
+  id: 1,
+  tags: ["Gaming", "Reels"],
+  youtubeId: "9cC7fR1kmTk",
+  description: "Reels de gaming cobrindo novo update — edição ritmada com foco em retenção."
+},
+{
+  id: 2,
+  tags: ["Gaming", "Cinematic"],
+  youtubeId: "tO64W1wQoC4",
+  description: "Gameplay longa - Edição dinâmica com timelapses. Foco em retenção.",
+},
+{
+  id: 3,
+  tags: ["Social Media", "Motion"],
+  youtubeId: "9Y5zEF1cpRE",
+  description: "Animação 2D para divulgação de servidor no Discord — motion aplicado a social media",
+},
+{
+  id: 4,
+  tags: ["Educational", "Motion"],
+  youtubeId: "QHgYD6ybUo0",
+  description: "Explainer video sobre CDI — animação 2D explicando o mercado interbancário brasileiro.",
+},
+{
+  id: 5,
+  tags: ["Educational", "Motion"],
+  youtubeId: "zmriWLGMBys",
+  description: "Explainer video sobre a taxa Selic — animação 2D sobre a taxa básica de juros do Brasil.",
 },
   ],
 
